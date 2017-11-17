@@ -7,5 +7,7 @@ header{
 }
 
 .container{
+    background-color: rgb(161, 97, 97);
     text-align: center;
+    width: 100%;
 }
